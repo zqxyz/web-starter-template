@@ -1,5 +1,5 @@
 # web-starter-template
-A simple monorepo template for a web app with an express backend and a Vuejs frontend
+A simple monorepo template for a web app with an express backend and a Vuejs frontend. I'm surprised by how opinionated the numerous templates available seem to be. This one is simple.
 
 ### Features
 
