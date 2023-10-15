@@ -32,7 +32,7 @@ module.exports = {
                 code: 100,
                 ignoreComments: false,
                 ignoreUrls: true,
-                ignorePattern: '^\\s*import\\s.+\\sfrom\\s.+;$', // Ignore import statements
+                ignorePattern: '^\\s*import\\s.+\\sfrom\\s.+;$', // Ignore imports line length
             },
         ],
     },
